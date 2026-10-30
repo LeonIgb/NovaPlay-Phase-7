@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "*",
+    "expo-status-bar": "*",
+    "expo-video": "*",
+    "expo-document-picker": "*",
+    "react-native-safe-area-context": "*",
+    "expo-screen-orientation": "*",
+    "expo-navigation-bar": "*",
+    "react-native-gesture-handler": "*",
+    "expo-media-library": "*",
+    "expo-video-thumbnails": "*",
+    "expo-file-system": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "expo-keep-awake": "*"
+  }
+}
